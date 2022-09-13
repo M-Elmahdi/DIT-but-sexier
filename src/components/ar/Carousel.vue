@@ -8,10 +8,10 @@
               <div class="container">
                 <div class="row">
                   <div class="col-10 col-lg-5 text-end ms-5">
-                    <h1 class="display-3 hacen-bold text-dark mb-4 animated slideInDown">
+                    <h1 dir="rtl" class="display-3 hacen-bold text-dark mb-4 animated slideInDown">
                       {{ lang.slider_1_title }}
                     </h1>
-                    <h2 class="fs-5 hacen-bold text-dark mb-5">
+                    <h2 dir="rtl" class="fs-5 hacen-bold text-dark mb-5">
                       {{ lang.slider_1_desc }}
                     </h2>
                     <!-- <a href="" class="btn btn-primary py-3 px-5">More Details</a> -->
@@ -26,10 +26,10 @@
               <div class="container">
                 <div class="row">
                   <div class="col-10 col-lg-5 text-end">
-                    <h1 class="display-3 hacen-bold text-dark mb-4 animated slideInDown">
+                    <h1 dir="rtl" class="display-3 hacen-bold text-dark mb-4 animated slideInDown">
                       {{ lang.slider_2_title }}
                     </h1>
-                    <h2 class="fs-5 hacen-bold text-dark mb-5">
+                    <h2 dir="rtl" class="fs-5 hacen-bold text-dark mb-5">
                       {{ lang.slider_2_desc }}
                     </h2>
                     <!-- <a href="" class="btn btn-primary py-3 px-5">More Details</a> -->
